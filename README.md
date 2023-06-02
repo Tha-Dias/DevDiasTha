@@ -20,4 +20,5 @@ Apaixonada por educação e tecnologia!
 ) ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 ) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
-## "A obsessão ganha do talento" 🖥️
+## "The true test of one's mettle is how many times you will try before you give up."
+- Stephen Richards
