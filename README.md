@@ -1,7 +1,9 @@
 ## Eu sou a Thaís! ⭐
 
 Estudante de ADS na FATEC Rubens Lara.
+
 ADS 4/6 👩‍💻
+
 Apaixonada por educação e tecnologia!
 ### Contatos:
 
