@@ -2,7 +2,7 @@
 
 Estudante de ADS na FATEC Rubens Lara.
 
-ADS 4/6 👩‍💻
+ADS 5/6 👩‍💻
 
 Apaixonada por educação e tecnologia!
 ### Contatos:
